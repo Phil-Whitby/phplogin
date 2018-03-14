@@ -25,8 +25,8 @@
 		</div>
 	</div>
 
-	<div class="container-fluid bg-2 text-center">
-	<button id='assholeBtn' class= 'animated pulse' onclick="selectNews(event)">  <h3>Click here asshole!</h3> </button>
+	<div id="buttonDiv"  class="container-fluid bg-2 text-center">
+	<button id='assholeBtn' class= 'animated pulse'>  <h3>Click here asshole!</h3> </button>
 		<div id='all' class="row"></div>
 	</div>
 
